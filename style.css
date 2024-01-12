@@ -1,0 +1,40 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+/* media query */
+@media (max-width:900px){
+.carousel-item img{
+    /* height: 500px;
+    width: 1300px; */
+    height: 30%;
+}
+}
+
+/* body part 1 starts here */
+.Bp1{
+display: flex;
+align-items: center;
+padding: 2em;
+}
+.Bp1a{
+    height: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Bp1b{
+    height: auto;
+    width: 50%;
+    text-align: center;
+}
+
+/* card */
+.card img{
+    height: 240px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+/* body part 1 ends */

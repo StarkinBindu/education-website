@@ -37,4 +37,11 @@ padding: 2em;
     border-bottom-right-radius: 7px;
     border-bottom-left-radius: 7px;
 }
+@media (max-width:900px){
+    .Bp1b{
+        /* height: 500px;
+        width: 1300px; */
+        height: 30%;
+    }
+}
 /* body part 1 ends */
